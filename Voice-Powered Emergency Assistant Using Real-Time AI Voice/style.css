@@ -1,0 +1,33 @@
+body {
+    font-family: Arial;
+    text-align: center;
+    margin-top: 80px;
+    background: #f4f4f4;
+}
+
+h1 {
+    color: red;
+}
+
+button {
+    padding: 15px 25px;
+    font-size: 18px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkred;
+}
+
+p {
+    font-size: 18px;
+}
+
+#location {
+    margin-top: 20px;
+    font-weight: bold;
+}
